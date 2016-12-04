@@ -1,0 +1,53 @@
+typography_spectrum: 1
+color:
+  brandStrength: 0.28313370374935026
+  lightness: 0.7331137940713601
+  saturation: 1
+  rhythmicContrast: 0.7937957905713322
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+github: true
+layout_spectrum: 0.12561152674064113
+author:
+  name: jerbo
+  email: jerbo@gmx.net
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b6408a7-40e3-4a95-974d-dad951ad45ef.png
+name: Dansschool Mariposa
+navigation:
+  - name: 'Salsa: wat is dat?'
+    id: a57e3ddd-19d1-4eb1-8353-89a75d7a823c
+    type: content
+  - name: 'Wie, wat en waar?'
+    id: b1bb5fac-aba4-43aa-8e46-57306392c07c
+    type: content
+  - name: Lessen - Hoe en wat?
+    id: 38cce519-a3bf-4f65-96b2-15770fb40750
+    type: content
+  - name: Inschrijven
+    id: 6e28decb-366c-4094-953c-03aa0e7d85ac
+    type: content
+  - name: DJ's
+    id: acd5702a-3fce-42a6-bdec-f3bcf4a06280
+    type: content
+  - name: Foto’s
+    id: 4b06ec7a-eb72-4b39-94f0-95e3a3a20b96
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa0157ea-d0fb-497c-8155-5f63ccd5d075.png
+title: Come Dance with Us!
+content: []
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:dansschoolmariposa@outlook.com'
+    label: E-mail Mariposa
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSfmXDt6cm8C2Q0cdz2aAeA79kpV81rmemNmWOuEJjEn-xdTTQ/viewform
+    label: Nieuwsbrief Mariposa
