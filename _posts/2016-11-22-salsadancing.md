@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-16T18:17:36.030Z'
+datePublished: '2016-12-16T18:41:34.211Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-16T18:17:35.125Z'
+dateModified: '2016-12-16T18:41:31.528Z'
 title: Salsadancing!
 publisher: {}
 description: ''
