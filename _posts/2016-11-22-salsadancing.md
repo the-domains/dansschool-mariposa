@@ -1,0 +1,20 @@
+---
+datePublished: '2016-12-16T18:04:02.453Z'
+inFeed: true
+author: []
+via: {}
+dateModified: '2016-12-16T18:04:00.995Z'
+title: Salsadancing!
+publisher: {}
+description: ''
+sourcePath: _posts/2016-11-22-salsadancing.md
+datePublishedOriginal: '2016-11-22T00:27:32.857Z'
+starred: false
+_type: Blurb
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6af1eda-1976-419c-a73d-e5ec18eb5b68.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ccdb1c7-1064-41dc-a933-4e74e0ffd976.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9595c5a5-4171-44bc-a721-44d14d7a090e.jpg)
+
+# Salsadancing!
