@@ -1,11 +1,13 @@
 ---
-datePublished: '2016-12-16T17:06:21.877Z'
+datePublished: '2016-12-16T17:07:38.603Z'
 sourcePath: _posts/2016-11-20-salsa-carribean-party-december-2016.md
 inFeed: true
-hasPage: true
+isBasedOnUrl: >-
+  https://salsa.latinnet.nl/salsa/agenda/mariposa-salsa-carribean-party-december-03-12-2016-stichting-salsa-dansschool-mariposa--houten-utrecht-64186.php
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-12-16T17:06:21.252Z'
+dateModified: '2016-12-16T17:07:38.130Z'
 title: Salsa Carribean Party Januari 2017
 publisher: {}
 description: >-
@@ -13,8 +15,7 @@ description: >-
   Carribean New Years Party in Houten (UT).
 starred: true
 datePublishedOriginal: '2016-11-22T12:42:21.276Z'
-url: salsa-carribean-party-december-2016/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ## Salsa Carribean Party Januari 2017
