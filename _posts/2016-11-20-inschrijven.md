@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-12-16T18:04:02.455Z'
+datePublished: '2016-12-16T18:17:36.065Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-16T18:04:00.995Z'
+dateModified: '2016-12-16T18:17:35.125Z'
 title: Inschrijven
 publisher: {}
 description: >-
   De aanmelding voor een cursus kan schriftelijk (tijdens de lessen) en
   telefonisch gebeuren.
 sourcePath: _posts/2016-11-20-inschrijven.md
-datePublishedOriginal: '2016-11-21T23:33:32.206Z'
 starred: false
+datePublishedOriginal: '2016-11-21T23:33:32.206Z'
 url: inschrijven/index.html
 _type: Blurb
 
