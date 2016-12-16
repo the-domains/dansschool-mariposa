@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-16T17:07:38.603Z'
+datePublished: '2016-12-16T17:08:02.622Z'
 sourcePath: _posts/2016-11-20-salsa-carribean-party-december-2016.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-12-16T17:07:38.130Z'
+dateModified: '2016-12-16T17:08:01.989Z'
 title: Salsa Carribean Party Januari 2017
 publisher: {}
 description: >-
