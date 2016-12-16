@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-16T18:17:36.065Z'
+datePublished: '2016-12-16T18:41:34.205Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-16T18:17:35.125Z'
+dateModified: '2016-12-16T18:41:31.528Z'
 title: Inschrijven
 publisher: {}
 description: >-
