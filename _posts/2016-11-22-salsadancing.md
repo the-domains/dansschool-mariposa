@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-12-16T18:04:02.453Z'
+datePublished: '2016-12-16T18:17:36.030Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-16T18:04:00.995Z'
+dateModified: '2016-12-16T18:17:35.125Z'
 title: Salsadancing!
 publisher: {}
 description: ''
 sourcePath: _posts/2016-11-22-salsadancing.md
-datePublishedOriginal: '2016-11-22T00:27:32.857Z'
 starred: false
+datePublishedOriginal: '2016-11-22T00:27:32.857Z'
 _type: Blurb
 
 ---
