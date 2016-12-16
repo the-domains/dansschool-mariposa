@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-16T17:08:31.610Z'
+datePublished: '2016-12-16T17:16:55.108Z'
 sourcePath: _posts/2016-11-20-salsa-carribean-party-december-2016.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-12-16T17:08:31.066Z'
+dateModified: '2016-12-16T17:16:53.951Z'
 title: Salsa Carribean Party Januari 2017
 publisher: {}
 description: >-
@@ -27,7 +27,7 @@ Salsadansschool Mariposa zal het jaar Knallend laten beginnen.
 Kom lekker dansen bij Salsadansschool Mariposa en neem je vrienden mee!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ba6771-0dc7-4cf2-897e-d62a2659959f.jpg)
 
-**Met: Latin DJ Devante **
+**Met: Latin DJ Devante**
 
 Op swingende ritmes zetten onze DJ's je heupen de hele avond in beweging met een cocktail van temperamentvolle Salsa's, Kizomba's, Merenque's en zwoele Bachata's!
 
