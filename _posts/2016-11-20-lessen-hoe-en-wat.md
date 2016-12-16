@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-12-16T18:04:02.457Z'
+datePublished: '2016-12-16T18:17:36.070Z'
 sourcePath: _posts/2016-11-20-lessen-hoe-en-wat.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-11-21T23:33:32.213Z'
-dateModified: '2016-12-16T18:04:00.995Z'
+dateModified: '2016-12-16T18:17:35.125Z'
 title: Lessen - Hoe en wat?
 publisher: {}
 description: >-
@@ -22,6 +21,7 @@ description: >-
   danspartner gewisseld. Dit is belangrijk om goed te kunnen leren leiden en
   volgen. Het stelt u in staat om met iedereen te kunnen dansen.
 starred: false
+datePublishedOriginal: '2016-11-21T23:33:32.213Z'
 url: lessen-hoe-en-wat/index.html
 _type: Blurb
 
