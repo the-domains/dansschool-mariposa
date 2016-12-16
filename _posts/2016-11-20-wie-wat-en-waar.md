@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-12-16T18:04:02.456Z'
+datePublished: '2016-12-16T18:17:36.080Z'
 sourcePath: _posts/2016-11-20-wie-wat-en-waar.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-11-21T23:33:32.209Z'
-dateModified: '2016-12-16T18:04:00.995Z'
+dateModified: '2016-12-16T18:17:35.125Z'
 title: 'Wie, wat en waar?'
 publisher: {}
 description: >-
@@ -21,6 +20,7 @@ description: >-
   zelfs heel romantisch is. In Nederland gaf Jules vele jaren dansles op
   verschillende locaties.
 starred: false
+datePublishedOriginal: '2016-11-21T23:33:32.209Z'
 url: wie-wat-en-waar/index.html
 _type: Article
 
