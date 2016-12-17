@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-16T18:41:34.110Z'
+datePublished: '2016-12-17T05:35:50.117Z'
 sourcePath: _posts/2016-11-20-wie-wat-en-waar.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-16T18:41:31.528Z'
+dateModified: '2016-12-17T05:35:48.571Z'
 title: 'Wie, wat en waar?'
 publisher: {}
 description: >-
