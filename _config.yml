@@ -1,9 +1,10 @@
+layout_spectrum: 0.12353696090768616
 typography_spectrum: 1
 color:
-  brandStrength: 0.28313370374935026
-  lightness: 0.7331137940713601
+  brandStrength: 1
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.7937957905713322
+  rhythmicContrast: 1
   brandColors:
     - '#000000'
     - '#263248'
@@ -11,7 +12,6 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 github: true
-layout_spectrum: 0.12561152674064113
 author:
   name: jerbo
   email: jerbo@gmx.net
