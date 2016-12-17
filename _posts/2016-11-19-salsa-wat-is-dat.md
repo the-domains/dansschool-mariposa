@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-16T18:41:34.207Z'
+datePublished: '2016-12-17T05:35:50.277Z'
 sourcePath: _posts/2016-11-19-salsa-wat-is-dat.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-16T18:41:31.528Z'
+dateModified: '2016-12-17T05:35:48.571Z'
 title: 'Salsa: wat is dat?'
 publisher: {}
 description: 'Salsa is muziek, dans, passie, emotie, en vooral plezier.'
