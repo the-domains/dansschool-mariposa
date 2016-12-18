@@ -1,18 +1,19 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Wil jij je creativiteit in verschillende dansstijlen ontwikkelen of uitbreiden
   op latin gebied?
-dateModified: '2016-12-17T17:58:53.460Z'
-datePublished: '2016-12-17T17:58:53.888Z'
+dateModified: '2016-12-18T14:39:44.136Z'
+datePublished: '2016-12-18T14:39:44.577Z'
 title: Open Huis
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2016-12-16-open-huis-and-gratis-proefles.md
 starred: false
 datePublishedOriginal: '2016-12-16T18:39:48.205Z'
+url: open-huis/index.html
 _type: Blurb
 
 ---
