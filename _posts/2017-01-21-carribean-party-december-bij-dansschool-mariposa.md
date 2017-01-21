@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Klik hier voor alle foto’s: Januari 2017'
-dateModified: '2017-01-21T18:54:20.002Z'
-datePublished: '2017-01-21T18:54:20.508Z'
+dateModified: '2017-01-21T18:54:44.886Z'
+datePublished: '2017-01-21T18:54:45.866Z'
 title: Carribean Party Januari bij Dansschool Mariposa
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-21-carribean-party-december-bij-dansschool-mariposa.md
 starred: false
 datePublishedOriginal: '2017-01-21T18:54:19.756Z'
-sourcePath: _posts/2017-01-21-carribean-party-december-bij-dansschool-mariposa.md
 url: carribean-party-december-bij-dansschool-mariposa/index.html
 _type: Article
 
