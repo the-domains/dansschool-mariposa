@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-21T19:05:06.498Z'
+datePublished: '2017-01-21T19:13:30.665Z'
 sourcePath: _posts/2016-11-20-lessen-hoe-en-wat.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-21T19:05:04.666Z'
+dateModified: '2017-01-21T19:13:28.832Z'
 title: Lessen - Hoe en wat?
 publisher: {}
 description: >-
