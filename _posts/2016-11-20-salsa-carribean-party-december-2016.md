@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-16T18:04:02.391Z'
+datePublished: '2017-01-21T18:42:45.002Z'
 sourcePath: _posts/2016-11-20-salsa-carribean-party-december-2016.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,27 +7,25 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-12-16T18:04:00.995Z'
-title: Salsa Carribean Party Januari 2017
+dateModified: '2017-01-21T18:42:44.150Z'
+title: Salsa Carribean Party Februari 2017
 publisher: {}
 description: >-
-  Zaterdag 7 Januari organiseert Salsadansschool Mariposa een spetterende
-  Carribean New Years Party in Houten (UT).
+  Zaterdag 4 Februari organiseert Salsadansschool Mariposa een spetterende Salsa
+  Carribean  Party in Houten (UT).
 starred: true
 datePublishedOriginal: '2016-11-22T12:42:21.276Z'
 _type: MediaObject
 
 ---
-## Salsa Carribean Party Januari 2017
+## Salsa Carribean Party Februari 2017
 
-Zaterdag 7 Januari organiseert Salsadansschool Mariposa een spetterende Carribean New Years Party in Houten (UT).
-
-Salsadansschool Mariposa zal het jaar Knallend laten beginnen.
+Zaterdag 4 Februari organiseert Salsadansschool Mariposa een spetterende Salsa Carribean Party in Houten (UT).
 
 Kom lekker dansen bij Salsadansschool Mariposa en neem je vrienden mee!
-![Flyer januari 2017](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85e0a38c-f931-4dd5-a1f6-83d1ff2a5720.jpg)
+![Flyer Februari 2017](https://the-grid-user-content.s3-us-west-2.amazonaws.com/952f23aa-1d88-4a3d-8a9e-e4cf7b715959.jpg)
 
-**Met: Latin DJ Devante**
+**Met: Latin DJ Gilly**
 
 Op swingende ritmes zetten onze DJ's je heupen de hele avond in beweging met een cocktail van temperamentvolle Salsa's, Kizomba's, Merenque's en zwoele Bachata's!
 
@@ -46,5 +44,3 @@ Locatie: De Grund, Poort 79, 3991 DX Houten (Oude Dorp).
 zaterdag 07-01-17 Caribbean Salsa Party
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=52.028147&amp;longitude=5.157487&amp;zoom=16&amp;address=De%20Poort%2077%2C%20Houten%2C%20Utrecht%203991%2C%20Netherlands" style=""></iframe>
-
----
