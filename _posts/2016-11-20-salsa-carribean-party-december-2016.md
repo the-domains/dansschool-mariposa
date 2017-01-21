@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-21T18:42:45.002Z'
+datePublished: '2017-01-21T18:43:11.695Z'
 sourcePath: _posts/2016-11-20-salsa-carribean-party-december-2016.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-01-21T18:42:44.150Z'
+dateModified: '2017-01-21T18:43:11.123Z'
 title: Salsa Carribean Party Februari 2017
 publisher: {}
 description: >-
@@ -41,6 +41,6 @@ Locatie: De Grund, Poort 79, 3991 DX Houten (Oude Dorp).
 
 **Data Mariposa Caribbean Salsa Party's in seizoen 2016 - 2017:**
 
-zaterdag 07-01-17 Caribbean Salsa Party
+zaterdag 04-02-17 Caribbean Salsa Party
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=52.028147&amp;longitude=5.157487&amp;zoom=16&amp;address=De%20Poort%2077%2C%20Houten%2C%20Utrecht%203991%2C%20Netherlands" style=""></iframe>
