@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/MOysl6rVBdM'
 title: Adele - Hello (salsa version by MANDINGA)
-datePublished: '2017-01-21T19:05:06.317Z'
-dateModified: '2017-01-21T19:05:04.666Z'
+datePublished: '2017-01-21T19:13:30.436Z'
+dateModified: '2017-01-21T19:13:28.832Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-21-adele-hello-salsa-version-by-mandinga.md
