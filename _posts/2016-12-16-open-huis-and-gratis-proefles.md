@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Wil jij je creativiteit in verschillende dansstijlen ontwikkelen of uitbreiden
   op latin gebied?
-dateModified: '2016-12-18T14:40:18.457Z'
-datePublished: '2016-12-18T14:40:19.723Z'
+dateModified: '2017-01-21T18:34:27.304Z'
+datePublished: '2017-01-21T18:34:27.807Z'
 title: Open Huis
 author: []
 publisher: {}
