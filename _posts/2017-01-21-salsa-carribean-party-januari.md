@@ -40,13 +40,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/200474547'
 title: Salsa Carribean Party Januari
-datePublished: '2017-01-21T19:01:45.266Z'
-dateModified: '2017-01-21T19:01:36.072Z'
+datePublished: '2017-01-21T19:04:15.109Z'
+dateModified: '2017-01-21T19:04:14.226Z'
 via: {}
 inFeed: true
+sourcePath: _posts/2017-01-21-salsa-carribean-party-januari.md
 starred: false
 datePublishedOriginal: '2017-01-21T19:01:45.266Z'
-sourcePath: _posts/2017-01-21-salsa-carribean-party-januari.md
 _type: VideoObject
 _context: 'http://schema.org'
 
