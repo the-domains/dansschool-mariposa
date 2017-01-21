@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Carribean Party December bij Dansschool Mariposa
-dateModified: '2017-01-21T18:54:44.886Z'
-datePublished: '2017-01-21T18:54:45.993Z'
-title: ''
+description: 'Klik hier voor alle foto’s: December 2016'
+dateModified: '2017-01-21T18:56:32.737Z'
+datePublished: '2017-01-21T18:56:33.169Z'
+title: Carribean Party December bij Dansschool Mariposa
 author: []
 publisher: {}
 via: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2016-12-16T19:31:00.699Z'
 _type: Blurb
 
 ---
-Carribean Party December bij Dansschool Mariposa
+# Carribean Party December bij Dansschool Mariposa
 
 Klik hier voor alle foto's: [December 2016][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c34f601-b318-4ebe-b6dc-f04c7c92677d.jpg)
