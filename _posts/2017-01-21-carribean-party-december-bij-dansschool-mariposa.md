@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Klik hier voor alle foto’s: Januari 2017'
-dateModified: '2017-01-21T19:05:04.666Z'
-datePublished: '2017-01-21T19:05:05.688Z'
+dateModified: '2017-01-21T19:13:09.777Z'
+datePublished: '2017-01-21T19:13:10.356Z'
 title: Carribean Party Januari bij Dansschool Mariposa
 author: []
 publisher: {}
@@ -22,4 +22,4 @@ _type: Article
 
 Klik hier voor alle foto's: [Januari 2017][0]
 
-[0]: http://dansschoolmariposa.tk/122016/ "Foto's Januari 2016"
+[0]: http://dansschoolmariposa.tk/012017/ "Foto's Carribean Party  Januari"
