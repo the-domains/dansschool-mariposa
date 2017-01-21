@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Klik hier voor alle foto’s: December 2016'
-dateModified: '2017-01-21T19:04:14.226Z'
-datePublished: '2017-01-21T19:04:15.633Z'
+dateModified: '2017-01-21T19:05:04.666Z'
+datePublished: '2017-01-21T19:05:05.850Z'
 title: Carribean Party December bij Dansschool Mariposa
 author: []
 publisher: {}
