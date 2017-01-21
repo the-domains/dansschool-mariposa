@@ -10,7 +10,7 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords: []
-description: 'Foto''s Carribean Party '
+description: Foto's Carribean Party Januari
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/200474547'
     type: ios
@@ -40,13 +40,13 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/200474547'
 title: Salsa Carribean Party Januari
-datePublished: '2017-01-21T19:04:15.109Z'
-dateModified: '2017-01-21T19:04:14.226Z'
+datePublished: '2017-01-21T19:04:47.943Z'
+dateModified: '2017-01-21T19:04:47.486Z'
 via: {}
 inFeed: true
-sourcePath: _posts/2017-01-21-salsa-carribean-party-januari.md
 starred: false
-datePublishedOriginal: '2017-01-21T19:01:45.266Z'
+datePublishedOriginal: '2017-01-21T19:04:47.397Z'
+sourcePath: _posts/2017-01-21-salsa-carribean-party-januari.md
 _type: VideoObject
 _context: 'http://schema.org'
 
